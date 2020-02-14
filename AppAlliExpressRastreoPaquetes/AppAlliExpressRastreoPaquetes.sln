@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAlliExpressRastreoPaquetes", "AppAlliExpressRastreoPaquetes.csproj", "{134B9686-B725-452D-A67F-CD4C7BD89003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "..\UnitTestProject\UnitTestProject.csproj", "{D34A5D60-9A97-45D3-90E5-3357A7B54535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134B9686-B725-452D-A67F-CD4C7BD89003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134B9686-B725-452D-A67F-CD4C7BD89003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134B9686-B725-452D-A67F-CD4C7BD89003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134B9686-B725-452D-A67F-CD4C7BD89003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34A5D60-9A97-45D3-90E5-3357A7B54535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34A5D60-9A97-45D3-90E5-3357A7B54535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34A5D60-9A97-45D3-90E5-3357A7B54535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34A5D60-9A97-45D3-90E5-3357A7B54535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5174800-5FD6-4627-9781-C79F03631F9A}
+	EndGlobalSection
+EndGlobal
